@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-windicss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Windi CSS for Gatsby",
   "main": "index.js",
   "repository": {
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "defu": "^5.0.0",
-    "windicss-webpack-plugin": "^0.6.0"
+    "windicss-webpack-plugin": "^1.4.8"
   },
   "devDependencies": {}
 }
