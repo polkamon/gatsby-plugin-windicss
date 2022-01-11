@@ -1,4 +1,4 @@
-const WebpackWindiCSSPlugin = require("windicss-webpack-plugin").default;
+const WebpackWindiCSSPlugin = require("windicss-webpack-plugin");
 const merge = require("defu").arrayFn;
 
 const defaultOptions = {
