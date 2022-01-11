@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "defu": "^5.0.0",
-    "windicss-webpack-plugin": "^1.4.8"
+    "windicss-webpack-plugin": "^1.6.2"
   },
   "devDependencies": {}
 }
